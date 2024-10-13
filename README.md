@@ -35,10 +35,11 @@ Downloading the HBUT dataset from [HBUT](https://pan.baidu.com/s/1AcPukklhBTSL3S
 ## Results
 
 ### MSRS Dataset
-
+#### Qualitative result
 <p align="center"> <img src="Fig/msrs.png" width="90%"> </p>
 - Four representative images of the MSRS test set. In alphabetical order they are infrared image, visible image, GTF, FusionGAN, SDNet, RFN–Nest, U2Fusion, LRRNet, SwinFusion, CDDFuse, DATFuse, and GTMFuse.
 
+#### Quantitative Results
 
 |   **Methods**    |   **EN**   |   **SD**   | **SF** | **VIF** | **AG** | **Qabf** |
 |:----------------:|:---------:|:---------:|:---------:|:------------:|:-----------------------:|:-------------------------:|
