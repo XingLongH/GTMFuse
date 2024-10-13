@@ -39,6 +39,7 @@ Downloading the HBUT dataset from [HBUT](https://pan.baidu.com/s/1AcPukklhBTSL3S
 <p align="center"> <img src="Fig/msrs.png" width="90%"> </p>
 - Four representative images of the MSRS test set. In alphabetical order they are infrared image, visible image, GTF, FusionGAN, SDNet, RFN–Nest, U2Fusion, LRRNet, SwinFusion, CDDFuse, DATFuse, and GTMFuse.
 
+
 |   **Methods**    |   **EN**   |   **SD**   | **SF** | **VIF** | **AG** | **Qabf** |
 |:----------------:|:---------:|:---------:|:---------:|:------------:|:-----------------------:|:-------------------------:|
 | **GTF** |   4.44195   | 6.11111  |   0.05620    |    0.48176     |           3.53966            |           0.39194           |
