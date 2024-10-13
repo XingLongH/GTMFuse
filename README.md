@@ -39,6 +39,19 @@ Downloading the HBUT dataset from [HBUT](https://pan.baidu.com/s/1AcPukklhBTSL3S
 <p align="center"> <img src="Fig/msrs.png" width="90%"> </p>
 - Four representative images of the MSRS test set. In alphabetical order they are infrared image, visible image, GTF, FusionGAN, SDNet, RFN–Nest, U2Fusion, LRRNet, SwinFusion, CDDFuse, DATFuse, and GTMFuse.
 
+|   **Methods**    |   **EN**   |   **SD**   | **SF** | **VIF** | **AG** | **Qabf** |
+|:----------------:|:---------:|:---------:|:---------:|:------------:|:-----------------------:|:-------------------------:|
+| **GTF** |   4.44195   | 6.11111  |   0.05620    |    0.48176     |           3.53966            |           0.39194           |
+|  **FusionGAN**   |   5.86785   |   6.79263    |   0.03654    |    0.61998      |           3.00051            |           0.24709            |
+| **SDNet**  |   5.54468    |   6.13925    |   0.05910    |    0.48644      |        4.40836          |         0.41903           |
+| **RFN–Nest**  |   5.81096    |   7.91701    |   0.04982    |   0.74520     |          4.12198           |           0.50474             |
+| **U2Fusion**  |  5.03625    | 6.78870  |   0.06157    |   0.57216     |          4.48894            |           0.42512             |
+|   **LRRNet**    |5.89799 |   7.30930    | 0.04548  |  0.38422   |          3.64204          |          0.19980           |
+|  **SwinFusion**  |  6.61543    |   8.46817   | 0.06756     |  0.99403     |         5.26562           |        0.66481            |
+|   **CDDFuse**   |  6.32740   |   8.53021    |   **0.08130**  |     0.97155       |       6.12164           |         0.66558           |
+| **DATFuse**  |    6.29844    |   7.71886      | 0.07247  |     0.71196     |       5.96856          |       0.54618          |
+| **GTMFuse** |   **6.78256**  |  **8.60603**   | 0.08105  |   **1.00857**   |        **6.39748**          |      **0.69590**        |
+
 ###  RoadScene Datasset
 
 <p align="center"> <img src="Fig/road.png" width="90%"> </p>
